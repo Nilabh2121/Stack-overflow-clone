@@ -31,7 +31,7 @@ npm start
 
 ## Pics of the application
 
-<img src="https://github.com/Manoj-Athi/Stack-overflow/blob/main/Screenshots/Homepage.png">
+<img src="Screenshot 2023-06-20 at 9.57.27 AM.png">
 <img src="https://github.com/Manoj-Athi/Stack-overflow/blob/main/Screenshots/Question.png">
 
 ## Live Link for the website:
