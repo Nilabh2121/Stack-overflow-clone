@@ -33,7 +33,7 @@ npm start
 
 <img src="Screenshot 2023-06-20 at 9.57.27 AM.png">
 <img src="Screenshot 2023-06-20 at 9.57.40 AM.png">
-<img src="Screenshot 2023-06-20 at 9.57.40 AM.png">
+<img src="Screenshot 2023-06-20 at 9.57.48 AM.png">
 
 ## Live Link for the website:
 
